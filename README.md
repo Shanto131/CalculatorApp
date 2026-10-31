@@ -145,25 +145,7 @@ Follow these steps to run CalculatorApp:
 8. Select your device and wait for the application to install.
 9. Open CalculatorApp and start performing calculations.
 
-## 9. Screenshots
-
-Screenshots of the application can be added here to demonstrate its user interface and functionality.
-
-### Calculator Interface
-
-![Calculator Interface](screenshots/calculator-home.png)
-
-### Calculation History
-
-![Calculation History](screenshots/calculation-history.png)
-
-### Memory Functions
-
-![Memory Functions](screenshots/calculator-memory.png)
-
-**Note:** Replace the image paths above with your actual screenshot filenames. Create a `screenshots` folder in the repository and upload the corresponding images.
-
-## 10. Author
+## 9. Author
 
 **Name:** MD Shanto
 
@@ -174,7 +156,3 @@ Screenshots of the application can be added here to demonstrate its user interfa
 **Course:** Mobile Application Development Technologies (MADT)
 
 **Practical Work:** Lab #4 – CalculatorApp
-
----
-
-*This project was developed for educational purposes as part of a university practical assignment.*
