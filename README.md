@@ -143,7 +143,3 @@ git clone https://github.com/Shanto131/CalculatorApp.git
 - Project: CalculatorApp
 - Course: Mobile Application Development (MADT)
 - Assignment: Lab #4
-
----
-
-**Developed as part of the Mobile Application Development course using Java and Android Studio.**
