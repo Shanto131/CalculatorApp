@@ -134,21 +134,8 @@ Follow these steps to run the application:
 git clone https://github.com/Shanto131/CalculatorApp.git
 ```
 
-## 9. Screenshots
 
-Screenshots of the application can be added below to demonstrate its interface and functionality.
-
-<!-- Add your actual application screenshots here. -->
-
-Example:
-
-```markdown
-![Calculator Main Screen](screenshots/calculator-main.png)
-
-![Calculator History](screenshots/calculator-history.png)
-```
-
-## 10. Author
+## 9. Author
 
 **MD Shanto**
 
